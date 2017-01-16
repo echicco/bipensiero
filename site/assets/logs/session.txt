@@ -1,0 +1,1 @@
+2017-01-16 10:18:59	admin	http://localhost/bipensiero/processwire/login/	Successful login for 'admin'
