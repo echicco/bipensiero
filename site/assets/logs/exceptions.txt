@@ -1,0 +1,1 @@
+2017-01-16 16:37:55	admin	http://localhost/bipensiero/processwire/page/edit/?id=1	Unknown Selector operator: '' -- was your selector value properly escaped?  (in C:\xampp\htdocs\bipensiero\wire\core\Selectors.php line 357)

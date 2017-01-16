@@ -9,7 +9,16 @@
 	
 		// output bodycopy
 		echo $page->body;
-	
+
+		foreach($page->entry_bipensiero_test as $entry_bipensiero) {
+			echo "<h2>{$entry_bipensiero->title_bipensiero_entry}</h2><p>";
+			echo "<h3>{$entry_bipensiero->topic_bipensiero_entry}</h3><p>";
+			if($entry_bipensiero->image_bipensiero_entry) {
+				echo "<img src='{$entry_bipensiero->image_bipensiero_entry->size(100,100)->url}'>";
+			}
+			echo "Citazione: {$entry_bipensiero->body_bipensiero_entry}";
+		}
+
 		// render navigation to child pages
 		renderNav($page->children);
 	
