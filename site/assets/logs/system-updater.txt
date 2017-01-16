@@ -1,0 +1,20 @@
+2017-01-16 10:18:25	Update #8: Completed!
+2017-01-16 10:18:25	Update #9: Initializing update
+2017-01-16 10:18:29	Update #9: Added: Pages > Recent
+2017-01-16 10:18:29	Update #9: Completed!
+2017-01-16 10:18:38	Update #10: Initializing update
+2017-01-16 10:18:41	Update #10: Installed ProcessLogger and added: Setup > Logs
+2017-01-16 10:18:41	Update #10: Installed InputfieldIcon
+2017-01-16 10:18:41	Update #10: Completed!
+2017-01-16 10:18:46	Update #11: Initializing update
+2017-01-16 10:18:46	Update #11: Completed!
+2017-01-16 10:18:55	Update #12: Initializing update
+2017-01-16 10:18:55	Update #12: Added 'published' column to pages table
+2017-01-16 10:18:55	Update #12: Populated values to 'published' for 48 pages
+2017-01-16 10:18:55	Update #12: Completed!
+2017-01-16 10:18:55	Update #13: Initializing update
+2017-01-16 10:18:57	Update #13: Completed!
+2017-01-16 10:18:58	Update #14: Initializing update
+2017-01-16 10:18:59	Update #14: Completed!
+2017-01-16 10:18:59	Update #15: Initializing update
+2017-01-16 10:19:00	Update #15: Completed!
